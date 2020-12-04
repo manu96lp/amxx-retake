@@ -13,3 +13,7 @@ Retakes is a clone of the popular CS:GO retakes mod made for CS 1.6.
 - ReAPI
 - SQLite
 ```
+
+## Profile
+
+I used to give help and share projects at AMXMODX-ES. You can see [my profile](https://amxmodx-es.com/Manu) for more information.
